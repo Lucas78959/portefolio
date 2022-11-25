@@ -1,0 +1,94 @@
+body {
+    background-image: url(../image/bleu.jpg);
+    background-size: cover;
+}
+
+.image-sb {
+    position: left;
+}
+
+img {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+
+h3 {
+    color: rgb(15, 16, 16);
+}
+
+h2 {
+    margin-left: 10%;
+}
+
+h3 {
+    margin-left: 15%;
+}
+
+h3 {
+    margin-right: 15%;
+}
+
+.titre {
+    color: rgb(230, 237, 237);
+    margin-left: 20%;
+}
+
+.debut {
+    color: rgb(250, 251, 251);
+    font-size: 90%;
+}
+
+.coucou {
+    color: rgb(250, 251, 251);
+    font-size: 170%;
+}
+
+
+.bouton {
+    display: flex;
+    gap: 0.5em;
+    font-size: 18px;
+    word-spacing: 30px;
+    color:rgb(249, 241, 241);
+}
+
+.bouton:hover {
+    border-radius: 5px;
+}
+.ya{
+    color: rgb(13, 13, 14);
+}
+.a123{
+    color: rgb(12, 13, 13)
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(32, 137, 148);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+  
+
+  .test {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #111;
+  }
